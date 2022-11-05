@@ -1,0 +1,25 @@
+fieldset{
+    height: 90px;
+}
+.track img{
+    position: absolute;
+    height: 70px;
+    width: 80px;
+}
+.choose img{
+    align-items: center;
+    height: 150px;
+    width: 150px;
+    padding-right: 50px;
+}
+.choose button{
+    align-items: center;
+    margin-right: 50px;
+    margin-left: 80px;
+}
+.choose{
+    padding-left: 400px;
+}
+.track{
+    background-color: black;
+}
